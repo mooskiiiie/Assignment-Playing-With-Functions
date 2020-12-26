@@ -1,26 +1,26 @@
 # Assignment-Playing-With-Functions
 
-1
+1 
 1 point
 Write a function that takes the circumference of a circle as a parameter and returns the area of that circle.
 
 Note: Assume the value of pi is 3.1416
 
 In [ ]:
-2
+2 
 2 points
 Write a function that takes a 5-character string as a parameter and returns the string in reverse order.
 
 e.g. reverseString("Hello") -> "olleH"
 
-3
+3 
 2 points
 Write a function that takes a positive integer as input and returns the sum of all positive integers smaller than and including the number itself.
 
 e.g. backAddition(5) -> 1 + 2 + 3 + 4 + 5 -> 15
 
 In [ ]:
-4
+4 
 5 points (all or nothing)
 The sum of the squares of the first ten natural numbers is, 12 + 22 + ... + 102 = 385
 
@@ -32,7 +32,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 Show code that generates the answer.
 
-5
+5 
 5 points
 Write a function that allows a self-service Point of Sale system to give you the exact change when you pay in cash.
 
